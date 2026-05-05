@@ -1,10 +1,15 @@
-# Assignment 1: Producer–Consumer (Bounded Buffer)
+# Java Mini Project - OOP Using Java
 
-## Features
+## Assignments
+
+### 1. Producer–Consumer Problem
 - Java Swing GUI
-- Producer & Consumer threads
-- wait() and notify()
-- Animation + Progress Bar
+- Bounded Buffer
+- Threads + wait/notify
 
-## Output
-(Add screenshots here)
+### 2. Readers–Writers Problem
+- Multiple Readers/Writers
+- Synchronization
+
+## Author
+Praveen S
