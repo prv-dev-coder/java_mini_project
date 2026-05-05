@@ -1,0 +1,19 @@
+﻿# Compiled Java files
+*.class
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Videos (optional - large files)
+*.mp4
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
